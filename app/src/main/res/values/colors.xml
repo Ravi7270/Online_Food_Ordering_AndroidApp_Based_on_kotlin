@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tezxtcolor">#1FC57A</color>
+    <color name="startcolor">#53E888</color>
+    <color name="endcolor">#15BE77</color>
+    <color name="transparent">#ffffff</color>
+    <color name="newtext">#f4f4f4</color>
+    <color name="increaseButton">#42E999</color>
+    <color name="search">#D1D9D5</color>
+
+</resources>

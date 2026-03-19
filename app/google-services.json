@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856103483758",
+    "project_id": "raviproject-e6ddb",
+    "storage_bucket": "raviproject-e6ddb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856103483758:android:89eea2b183ee93c6f8e97f",
+        "android_client_info": {
+          "package_name": "com.example.raviproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbH3qIRlY8wPL3zkONF3phG2g7rfriQhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
